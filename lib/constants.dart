@@ -6,6 +6,8 @@ const Color kInactiveCardColor = Color(0xFF111328);
 const Color kBottomContainerColor = Color(0xFFEB1555);
 const double kMinimumHeight = 88.0;
 const double kMaximumHeight = 262.0;
+const int kMinimumWeight = 20;
+const int kMaximumWeight = 260;
 
 const TextStyle kLabelTextStyle = TextStyle(
   fontSize: 18.0,
