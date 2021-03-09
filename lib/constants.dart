@@ -4,8 +4,8 @@ const double kBottomContainerHeight = 80.0;
 const Color kActiveCardColor = Color(0xFF1D1E33);
 const Color kInactiveCardColor = Color(0xFF111328);
 const Color kBottomContainerColor = Color(0xFFEB1555);
-const double kMinimumHeight = 88.0;
-const double kMaximumHeight = 262.0;
+const double kMinimumHeight = 120.0;
+const double kMaximumHeight = 220.0;
 const int kMinimumWeight = 20;
 const int kMaximumWeight = 260;
 
