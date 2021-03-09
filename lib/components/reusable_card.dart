@@ -1,6 +1,6 @@
 import 'package:flutter/cupertino.dart';
 
-import 'constants.dart';
+import 'package:bmi_calculator/constants.dart';
 
 class ReusableCard extends StatelessWidget {
   ReusableCard({@required this.color, this.cardChild, this.onPressed});

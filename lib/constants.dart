@@ -14,8 +14,37 @@ const TextStyle kLabelTextStyle = TextStyle(
   color: Color(0xFF8D8E98),
 );
 
+const TextStyle kInformationTextStyle = TextStyle(
+  fontSize: 20.0,
+  color: Colors.white,
+);
+
+const TextStyle kTitleTextStyle = TextStyle(
+  fontSize: 48.0,
+  fontWeight: FontWeight.bold,
+  color: Colors.white,
+);
+
 const TextStyle kNumberTextStyle = TextStyle(
   fontSize: 50.0,
   fontWeight: FontWeight.w900,
   color: Colors.white,
+);
+
+const TextStyle kBMINumberTextStyle = TextStyle(
+  fontSize: 96.0,
+  fontWeight: FontWeight.bold,
+  color: Colors.white,
+);
+
+const TextStyle kLargeButtonTextStyle = TextStyle(
+  fontSize: 25.0,
+  fontWeight: FontWeight.bold,
+  color: Colors.white,
+);
+
+const TextStyle kResultTextStyle = TextStyle(
+  fontSize: 22.0,
+  fontWeight: FontWeight.bold,
+  color: Colors.green,
 );
